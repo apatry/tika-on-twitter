@@ -12,7 +12,7 @@ run the language identifier using the following command:
 lein run < tweets.json > tweets.csv
 ```
 
-Where tweet.csv will look like [data/tweets.csv](data/tweets.csv).
+Where tweet.csv will look like [data/tweets.csv](data/tweets-sample.csv).
 
 ## License
 
