@@ -1,6 +1,7 @@
 # Tika on Twitter
 
-Throw away code to evaluate Tika language detection on tweets.
+Throw away code to evaluate
+[Tika language detection on tweets](http://textjuicer.com/blog/2014/02/27/evaluating-tika-language-detection-on-tweets/).
 
 ## Usage
 
